@@ -73,7 +73,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Animoto Clone"
+              title="Codecov Clone"
               description="Codecov provides highly integrated tools
                to group, merge, archive and compare coverage reports.
               Uploads coverage reports from your CI. Merges builds and 
