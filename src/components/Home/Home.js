@@ -11,6 +11,7 @@ function Home() {
   useEffect(() => {
     Aos.init({ duration: 1200 });
   });
+  
   return (
     <section>
       <Container fluid className="home-section" id="home">
