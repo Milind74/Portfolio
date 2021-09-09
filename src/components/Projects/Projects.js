@@ -31,7 +31,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Ketto Clone "
+              title="Ketto  "
               description="Ketto is a well known crowdfunding platform where any individual across the country can raise funds for causes ranging from medical healthcare to disaster relief.
 
               "
@@ -45,11 +45,11 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Agoda Clone"
+              title="Agoda "
               description="Agoda.com is an online travel agency and metasearch engine for hotels, vacation rentals, flights, and airport transfer. It was founded in 2003 and later acquired by Booking Holdings, becoming a subsidiary of the company. About half of Agoda's bookings are made via its mobile apps."
               link="https://github.com/Subham-Abhishek/Agoda-Clone"
               // linkmedium="https://nilp7744.medium.com/project-on-clockify-clone-d6fa18977d4a"
-              // linklive="https://clockify-clonee.netlify.app/"
+              linklive="Agoda.netlify.app"
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Tripo Clone"
+              title="Tripoto "
               description="Tripoto is a travel community and travel 
               search engine portal based on user-generated content. 
               The platform was launched on October 2013 by founders
@@ -65,7 +65,7 @@ function Projects() {
               stories and discover those written by other travelers."
               link="https://github.com/Milind74/heptane_tripoto"
               // linkmedium=""
-              // linklive="https://foodxprs.netlify.app/order-online.html"
+              linklive="https://tripoto.netlify.app/"
             />
           </Col>
 
@@ -73,7 +73,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Codecov Clone"
+              title="Codecov"
               description="Codecov provides highly integrated tools
                to group, merge, archive and compare coverage reports.
               Uploads coverage reports from your CI. Merges builds and 
@@ -81,7 +81,7 @@ function Projects() {
               Displays coverage data in GitHub Files tab."
               link="https://github.com/AbhishekSardagi/Codecov"
               // linkmedium="https://nilp7744.medium.com/masai-collaboration-project-animoto-clone-fec2a84b2f8b"
-              // linklive="https://animoto-clone.netlify.app/"
+              linklive="https://codecov.vercel.app/"
             />
           </Col>
 
