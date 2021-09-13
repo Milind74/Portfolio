@@ -99,7 +99,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 // href="https://nilp7744.medium.com/" //commented by milind used medium account
                 target="_blank"
@@ -107,9 +107,9 @@ function NavBar() {
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Blogs
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
-            <Nav.Item className="fork-btn">
+            <Nav.Item style={{"marginLeft":"100px"}} className="fork-btn">
               <Button
                 href="https://github.com/Milind74"
                 target="_blank"

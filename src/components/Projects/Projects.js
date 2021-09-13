@@ -35,9 +35,9 @@ function Projects() {
               description="Ketto is a well known crowdfunding platform where any individual across the country can raise funds for causes ranging from medical healthcare to disaster relief.
 
               "
-              link="https://github.com/Ramlala-Yadav-Git/ketto-clone"
+              link="https://github.com/Milind74/ketto-clone"
               // linkmedium="https://nilp7744.medium.com/project-on-ketto-clone-5aceeccfc215"
-              // linklive="https://ketto-clone.netlify.app/"
+              linklive="https://ketto.herokuapp.com/"
             />
           </Col>
 
@@ -47,9 +47,9 @@ function Projects() {
               isBlog={false}
               title="Agoda "
               description="Agoda.com is an online travel agency and metasearch engine for hotels, vacation rentals, flights, and airport transfer. It was founded in 2003 and later acquired by Booking Holdings, becoming a subsidiary of the company. About half of Agoda's bookings are made via its mobile apps."
-              link="https://github.com/Subham-Abhishek/Agoda-Clone"
+              link="https://github.com/Milind74/Agoda-Clone"
               // linkmedium="https://nilp7744.medium.com/project-on-clockify-clone-d6fa18977d4a"
-              linklive="Agoda.netlify.app"
+              linklive="https://agoda.netlify.app/"
             />
           </Col>
 
@@ -79,7 +79,7 @@ function Projects() {
               Uploads coverage reports from your CI. Merges builds and 
               languages into a single coherent report. 
               Displays coverage data in GitHub Files tab."
-              link="https://github.com/AbhishekSardagi/Codecov"
+              link="https://github.com/Milind74/Codecov"
               // linkmedium="https://nilp7744.medium.com/masai-collaboration-project-animoto-clone-fec2a84b2f8b"
               linklive="https://codecov.vercel.app/"
             />

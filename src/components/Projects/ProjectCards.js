@@ -36,7 +36,7 @@ function ProjectCards(props) {
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons">
+            {/* <li className="social-icons">
               <a
                 href={props.linkmedium}
                 target="_blank"
@@ -45,7 +45,7 @@ function ProjectCards(props) {
               >
                 <AiFillMediumCircle />
               </a>
-            </li>
+            </li> */}
             <li className="social-icons">
               <a
                 href={props.linklive}
