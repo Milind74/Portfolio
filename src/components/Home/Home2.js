@@ -36,7 +36,7 @@ function Home2() {
               </i>
               <br /> <br/>
             
-              I am learning the MERN stack currently.
+              I am learning MERN stack currently.
               {/* <br />
               My field of Interest's are building new &nbsp; */}
               {/* <i> */}
