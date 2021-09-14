@@ -61,8 +61,20 @@ function Resume() {
               title="QUIZ COMPETITION  [ HIT-2018 ]"
               content={[
                 "Participation in Quiz competition and Canvas Painting competitions of semi-online College fest 'Extravaganza' organized by my college. ",
+             
+             
+             
+              ]}
+
+            />
+
+<Resumecontent
+              title="Construct week Project"
+              content={[
+                "Won 1st prize in a construct week project at Masai school" 
               ]}
             />
+
             <Resumecontent
               title="Inter-Collegiate Cricket Tournament"
               content={[
