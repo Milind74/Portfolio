@@ -36,15 +36,18 @@ function Footer() {
               </a>
             </li>
             <li className="social-icons">
-              <a
+            <a
+
                 href="https://www.linkedin.com/in/milind-anand-33a361175/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
-              </a>
-            </li>
+                </a>
+                </li>
+            
+          
           </ul>
         </Col>
       </Row>

@@ -1,14 +1,17 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { AiOutlineHtml5 } from "react-icons/ai";
+import { SiRedux } from "react-icons/si";
+
 import {
   DiJavascript1,
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython,
   DiGit,
+  
 } from "react-icons/di";
+
 import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
 
 function Techstack() {
@@ -25,6 +28,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiRedux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />

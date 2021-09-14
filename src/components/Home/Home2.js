@@ -21,8 +21,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body" data-aos="fade-up">
-              {/* I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️ */}
+             
              I am computer Science engineer by degree  <br/><br/>  and
             a full-stack web developer by passion.
            Enthusiast to learn and  <br/><br/>apply new things,
@@ -37,30 +36,7 @@ function Home2() {
               <br /> <br/>
             
               I am learning MERN stack currently.
-              {/* <br />
-              My field of Interest's are building new &nbsp; */}
-              {/* <i> */}
-                {/* <b className="purple">Web Technologies and Products </b>  */}
-                {/* and */}
-                {/* also in areas related to{" "} */}
-                {/* <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b> */}
-              {/* </i> */}
-              <br />
-              {/* <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b> */}
-              {/* </i> */}
-              {/* &nbsp; like */}
-              {/* <i>
-                <b className="purple"> React.js </b>
-              </i> */}
+            
             </p>
           </Col>
           <Col
@@ -119,16 +95,35 @@ function Home2() {
             <h3>
               Contact No:
               
-              <p
+              <a
                 href="tel:+6206039202"
                 style={{
                   color: "purple",
+                  display:"block",
+                  textDecoration:"none"
                 }}
               >
                 +916206039202
-              </p>
+              </a>
             </h3>
-            <br /> <br />
+            <br /> 
+
+            <h3>
+              Email:
+              <br />
+    
+              <a
+                href="mailto:milindanand74@gmail.com"
+                style={{
+                  color: "purple",
+                  display:"block",
+                  textDecoration:"none"
+                }}
+              >
+                milindanand74@gmail.com
+              </a>
+              </h3>
+              <br />
             <TransitionsModal />
           </Col>
         </Row>

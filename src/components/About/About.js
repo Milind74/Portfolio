@@ -54,7 +54,7 @@ function About() {
         </div>
         <br />
         <h1 className="project-heading" data-aos="fade-up">
-          Professional <strong className="purple">Skillset </strong>
+          {/* Professional <strong className="purple">Skillset </strong> */}
         </h1>
         <br />
         <div data-aos="fade-up">
