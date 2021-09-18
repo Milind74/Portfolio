@@ -27,9 +27,9 @@ function Home2() {
            Enthusiast to learn and  <br/><br/> apply new things,
           able to collaborate with a team. Keen to help people. 
               <br />
-              <br />I am expert in
+              <br />I am an expert in
               <i>
-                <b className="purple">  JavaScript, React, and Redux </b>
+                <b className="purple">  JavaScript, React, and Redux. </b>
               </i>
               <br /> <br/>
             
