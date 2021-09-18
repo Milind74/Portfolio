@@ -53,7 +53,7 @@ function Resume() {
               title="JAVA TRAINING"
               date="June 2020"
               content={[
-                "Attended a training session in Haldia Institute of technology on java.",
+                "Attended a training session at Haldia Institute of technology on java.",
               ]}
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
