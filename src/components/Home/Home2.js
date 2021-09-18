@@ -22,12 +22,10 @@ function Home2() {
             </h1>
             <p className="home-about-body" data-aos="fade-up">
              
-             I am computer Science engineer by degree  <br/><br/>  and
+          I am a computer science engineer by degree  <br/><br/> and
             a full-stack web developer by passion.
-           Enthusiast to learn and  <br/><br/>apply new things,
+           Enthusiast to learn and  <br/><br/> apply new things,
           able to collaborate with a team. Keen to help people. 
-   
-
               <br />
               <br />I am expert in
               <i>

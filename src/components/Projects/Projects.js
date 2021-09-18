@@ -32,9 +32,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Ketto  "
-              description="Ketto is a well known crowdfunding platform where any individual across the country can raise funds for causes ranging from medical healthcare to disaster relief.
-
-              "
+              description="Ketto is a well-known crowdfunding platform where any individual across the country can raise funds for causes ranging from medical healthcare to disaster relief."
               link="https://github.com/Milind74/ketto-clone"
               // linkmedium="https://nilp7744.medium.com/project-on-ketto-clone-5aceeccfc215"
               linklive="https://ketto.herokuapp.com/"
@@ -46,7 +44,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Agoda "
-              description="Agoda.com is an online travel agency and metasearch engine for hotels, vacation rentals, flights, and airport transfer. It was founded in 2003 and later acquired by Booking Holdings, becoming a subsidiary of the company. About half of Agoda's bookings are made via its mobile apps."
+              description="Agoda.com is an online travel agency and metasearch engine for hotels, vacation rentals, flights, and airport transfers. It was founded in 2003 and later acquired by Booking Holdings, becoming a subsidiary of the company. About half of Agoda's bookings are made via its mobile apps."
               link="https://github.com/Milind74/Agoda-Clone"
               // linkmedium="https://nilp7744.medium.com/project-on-clockify-clone-d6fa18977d4a"
               linklive="https://agoda.netlify.app/"
@@ -58,11 +56,13 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Tripoto "
-              description="Tripoto is a travel community and travel 
+              description=" Tripoto is a travel community and travel 
               search engine portal based on user-generated content. 
-              The platform was launched on October 2013 by founders
+              The platform was launched in October 2013 by founders
                Anirudh Gupta and Michael Pargal Lyngdoh. Tripoto allows users to write travel 
-              stories and discover those written by other travelers."
+               stories and discover those written by other travelers."
+
+
               link="https://github.com/Milind74/heptane_tripoto"
               // linkmedium=""
               linklive="https://tripoto.netlify.app/"
@@ -74,37 +74,20 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Codecov"
-              description="Codecov provides highly integrated tools
-               to group, merge, archive and compare coverage reports.
+              description="
+              Codecov provides highly integrated tools
+               to group, merge, archive, and compare coverage reports.
               Uploads coverage reports from your CI. Merges builds and 
               languages into a single coherent report. 
               Displays coverage data in GitHub Files tab."
+              
               link="https://github.com/Milind74/Codecov"
               // linkmedium="https://nilp7744.medium.com/masai-collaboration-project-animoto-clone-fec2a84b2f8b"
               linklive="https://codecov.vercel.app/"
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={suicide}
-              isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-            />
-          </Col> */}
+         
         </Row>
       </Container>
     </Container>

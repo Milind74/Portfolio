@@ -60,7 +60,7 @@ function Resume() {
             <Resumecontent
               title="QUIZ COMPETITION  [ HIT-2018 ]"
               content={[
-                "Participation in Quiz competition and Canvas Painting competitions of semi-online College fest 'Extravaganza' organized by my college. ",
+                "Participated in Quiz competition and Canvas Painting competitions of semi-online College fest 'Extravaganza' organized by my college. ",
              
              
              
@@ -85,7 +85,7 @@ function Resume() {
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title=" B.E COMPUTER SCIENCE ENGINEERING [ haldia, west bengal ] "
+              title=" B.E COMPUTER SCIENCE ENGINEERING [ Haldia, West Bengal ] "
               date="2016 - 2020"
               content={["CGPA: 7.11  "]}
             />
@@ -99,16 +99,7 @@ function Resume() {
               date="2001 - 2012"
               content={["Precentage: 90.00%"]}
             />
-            {/* <h3 className="resume-title">Ranks and Achivements</h3> */}
-            {/* <Resumecontent
-              title=""
-              content={[
-                `Current rank in Spoj ${spojRank}`,
-                `Current rank in HackerRank  ${hackerrank}`,
-                "Top Performer in Code-Break 1.0",
-                "Participant in Hack-A-Bit 2019",
-              ]}
-            /> */}
+            
           </Col>
         </Row>
         <Row

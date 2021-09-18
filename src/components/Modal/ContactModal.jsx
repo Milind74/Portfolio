@@ -71,7 +71,7 @@ export default function TransitionsModal() {
         onClick={handleOpen}
         style={{ marginTop: "-20px" }}
       >
-        Click To Send Messege
+        Click To Send Message
       </Button>
       <Modal
         aria-labelledby="transition-modal-title"
@@ -88,7 +88,7 @@ export default function TransitionsModal() {
           <form onSubmit={submit}>
             <div className={classes.paper} style={{ textAlign: "Center" }}>
               <h2 id="transition-modal-title" style={{ color: "white" }}>
-                Send Messege
+              Send Message
               </h2>
               <div>
                 <input
