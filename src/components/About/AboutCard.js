@@ -30,6 +30,7 @@ function AboutCard() {
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
+          <br/>
           <footer className="blockquote-footer">Milind</footer>
         </blockquote>
       </Card.Body>

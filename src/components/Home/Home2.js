@@ -25,7 +25,7 @@ function Home2() {
              I am computer Science engineer by degree  <br/><br/>  and
             a full-stack web developer by passion.
            Enthusiast to learn and  <br/><br/>apply new things,
-          able to  collaborate with a team. Keen to help people. 
+          able to collaborate with a team. Keen to help people. 
    
 
               <br />
@@ -35,7 +35,7 @@ function Home2() {
               </i>
               <br /> <br/>
             
-              I am learning MERN stack currently.
+              I am learning the MERN stack currently.
             
             </p>
           </Col>
@@ -128,7 +128,10 @@ function Home2() {
           </Col>
         </Row>
       </Container>
+      
     </Container>
+
+    
   );
 }
 export default Home2;

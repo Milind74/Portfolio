@@ -71,7 +71,7 @@ function Resume() {
 <Resumecontent
               title="Construct week Project"
               content={[
-                "Won 1st prize in a construct week project at Masai school" 
+                "Won 1st prize in a construct week project at Masai School" 
               ]}
             />
 
