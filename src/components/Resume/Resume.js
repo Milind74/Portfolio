@@ -88,18 +88,9 @@ function Resume() {
             <Resumecontent
               title=" B.E COMPUTER SCIENCE ENGINEERING [ Haldia, West Bengal ] "
               date="2016 - 2020"
-              content={["CGPA: 7.11  "]}
+              content={["CGPA: 7.3  "]}
             />
-            <Resumecontent
-              title="12TH BOARD [ Milia Convent School ]"
-              date="2013 - 2015"
-              content={["Precentage: 52.54%"]}
-            />
-            <Resumecontent
-              title="10TH BOARD [ Mount Zion School ] "
-              date="2001 - 2012"
-              content={["Precentage: 90.00%"]}
-            />
+           
             
           </Col>
         </Row>
